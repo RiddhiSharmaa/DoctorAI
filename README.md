@@ -17,7 +17,7 @@
 
 ## 📋 Overview
 
-**MediVoice AI (DoctorAI)** is an intelligent, voice-first medical assistance platform that provides 24/7 medical support through conversational AI agents. Built with cutting-edge technologies, it enables healthcare providers to offer seamless symptom triage, appointment booking, and automated medical report generation with clinical-grade accuracy and empathy.
+**MediVoice AI (DoctorAI)** is an intelligent, voice-first medical assistance platform that provides 24/7 medical support through conversational AI agents. Built with cutting-edge technologies, it enables healthcare providers to offer seamless symptom triage, appointment booking, and automated medical report generation with clinical-grade accuracy and Empathy.
 
 ### 🎯 Why MediVoice AI?
 
