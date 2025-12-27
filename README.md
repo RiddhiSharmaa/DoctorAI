@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 MediVoice AI - DoctorAI
+# DoctorAI
 
 ### *Conversational Medical Voice Agents for Modern Healthcare*
 
@@ -15,11 +15,11 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 **MediVoice AI (DoctorAI)** is an intelligent, voice-first medical assistance platform that provides 24/7 medical support through conversational AI agents. Built with cutting-edge technologies, it enables healthcare providers to offer seamless symptom triage, appointment booking, and automated medical report generation with clinical-grade accuracy and Empathy.
 
-### 🎯 Why MediVoice AI?
+### Why MediVoice AI?
 
 - **24/7 Availability**: Provide round-the-clock medical assistance without human intervention
 - **Voice-First Experience**: Natural, conversational interface using advanced voice AI
@@ -30,15 +30,15 @@
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎤 **Voice-First Medical Consultation**
+### **Voice-First Medical Consultation**
 - Real-time voice conversation with AI medical agents using VAPI
 - Natural language understanding for symptom description
 - Multi-specialty doctor agents (General, Cardiologist, Dermatologist, etc.)
 - Empathetic and context-aware responses
 
-### 📄 **Automated Medical Reports**
+### **Automated Medical Reports**
 - AI-powered report generation using Google Gemini 2.5 Flash
 - Structured medical reports with:
   - Chief complaints and symptoms
@@ -49,19 +49,19 @@
 - Downloadable and shareable reports
 - Persistent storage for future reference
 
-### 📅 **Appointment Management**
+### **Appointment Management**
 - Schedule and manage appointments
 - View upcoming and past consultations
 - Integration with calendar systems
 - Appointment reminders and notifications
 
-### 💊 **Medication Reminders**
+### **Medication Reminders**
 - Set custom medication reminders
 - Timezone-aware scheduling
 - Automatic delivery tracking
 - Notification system integration
 
-### 🥗 **Personalized Nutrition Planning**
+### **Personalized Nutrition Planning**
 - AI-generated meal plans based on:
   - Health conditions
   - Dietary restrictions and allergies
@@ -69,19 +69,19 @@
   - Caloric requirements
 - Customizable nutrition recommendations
 
-### 👨‍⚕️ **Doctor Suggestions**
+### **Doctor Suggestions**
 - Intelligent doctor recommendations based on symptoms
 - Specialist matching algorithm
 - Doctor profiles with specializations
 - Availability tracking
 
-### 📊 **Personal Health Dashboard**
+### **Personal Health Dashboard**
 - Track consultation history
 - View all medical reports
 - Monitor health metrics
 - Analytics and insights (Admin)
 
-### 🔒 **Security & Authentication**
+### **Security & Authentication**
 - Secure authentication with Clerk
 - Role-based access control
 - Data encryption
@@ -118,7 +118,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -183,7 +183,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 📱 Usage
+## Usage
 
 ### For Patients
 
@@ -203,7 +203,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 📚 API Documentation
+## API Documentation
 
 ### Main API Endpoints
 
@@ -240,7 +240,7 @@ For detailed API documentation with request/response examples, see [REPORT_FEATU
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 MediVoice_AI/
@@ -270,7 +270,7 @@ MediVoice_AI/
 
 ---
 
-## 🎨 Screenshots
+## Screenshots
 
 ### Home Page
 *Voice-first medical consultation interface with real-time AI agents*
@@ -286,7 +286,7 @@ MediVoice_AI/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to MediVoice AI! Here's how you can help:
 
@@ -306,7 +306,7 @@ We welcome contributions to MediVoice AI! Here's how you can help:
 
 ---
 
-## 📋 Roadmap
+## Roadmap
 
 - [ ] PDF export for medical reports
 - [ ] Email notifications for appointments and reminders
@@ -321,7 +321,7 @@ We welcome contributions to MediVoice AI! Here's how you can help:
 
 ---
 
-## 🔐 Security & Compliance
+## Security & Compliance
 
 - **Data Encryption**: All sensitive data is encrypted in transit and at rest
 - **Authentication**: Secure authentication using industry-standard OAuth 2.0
@@ -335,7 +335,7 @@ We welcome contributions to MediVoice AI! Here's how you can help:
 
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **VAPI AI** - For voice AI technology
 - **Vercel** - For hosting and deployment
@@ -346,7 +346,7 @@ We welcome contributions to MediVoice AI! Here's how you can help:
 
 ---
 
-## 📈 Stats
+## Stats
 
 - **Saved Time**: 100+ hours of manual medical documentation
 - **Clinics Onboarded**: 25+ healthcare providers
@@ -357,7 +357,7 @@ We welcome contributions to MediVoice AI! Here's how you can help:
 
 <div align="center">
 
-### ⭐ Star this repo if you find it helpful!
+### Star this repo if you find it helpful!
 
 **Made with ❤️ for better healthcare accessibility**
 
